@@ -1,5 +1,5 @@
 {% set name = "types-termcolor" %}
-{% set version = "1.1.0" %}
+{% set version = "1.1.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-termcolor-{{ version }}.tar.gz
-  sha256: 16d8c03ce2c458a34966d18e875c0ac9f6cc9035996bea94d41733e9801f7bbe
+  sha256: 546a69801f14252d32744d8b58f9cfe04c99485befc6d07fb402a0729241331c
 
 build:
   number: 0
